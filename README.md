@@ -2,6 +2,9 @@
 
 **ENTNT APP** is a web-based application that provides a dashboard for managing communication with different companies. It offers features for tracking communication methods, engagement effectiveness, overdue communication trends, and real-time activity logs.
 
+## Live Demo
+The application is hosted on [Netlify](https://entnttechtask.netlify.app/) for easy access and evaluation.
+
 ## Features
 
 - **User Dashboard:** Displays a personalized view with important information and activities.
