@@ -1,9 +1,9 @@
 import React from 'react';
-import CommunicationFrequencyReport from './CommunicationFrequencyReport';
-import EngagementEffectivenessDashboard from './EngagementEffectivenessDashboard';
-import OverdueCommunicationTrends from './OverdueCommunicationTrends';
-import DownloadableReport from './DownloadableReport';
-import RealTimeActivityLog from './RealTimeActivityLog';
+// import CommunicationFrequencyReport from './CommunicationFrequencyReport';
+// import EngagementEffectivenessDashboard from './EngagementEffectivenessDashboard';
+// import OverdueCommunicationTrends from './OverdueCommunicationTrends';
+// import DownloadableReport from './DownloadableReport';
+// import RealTimeActivityLog from './RealTimeActivityLog';
 import './ReportPage.css';
 
 const ReportPage = () => {
