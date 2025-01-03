@@ -25,8 +25,7 @@
   - CSS (for styling)
 
 - **Backend:** 
-  - Node.js
-  - Express.js
+  - N  ress.js
   - MongoDB (for storing user data and communication logs)
 
 - **Deployment:**
@@ -49,47 +48,47 @@ Ensure you have the following installed:
 ```bash
 git clone https://github.com/your-username/entnt-app.git
 cd entnt-app
-
-Install dependencies
-For the frontend:
-
-bash
-Copy code
+```
+### Install dependencies
+- **For the frontend:**
+```bash
 cd frontend
 npm install
-For the backend:
+```
+- **For the backend:**
 
-bash
-Copy code
+```bash
 cd backend
 npm install
-Environment Setup
-Create a .env file in the root of the backend folder and add the following environment variables:
+```
+- **Environment Setup:**
 
-makefile
-Copy code
+   Create a .env file in the root of the backend folder and add the following environment variables:
+```bash
 MONGODB_URI=your_mongodb_connection_url
 PORT=your_preferred_port
-Run the application
-For the frontend:
-bash
-Copy code
+```
+### Run the application
+- **For the frontend:**
+
+```bash
 cd frontend
 npm start
-For the backend:
-bash
-Copy code
+```
+- **For the backend:**
+```bash
 cd backend
 npm start
+```
 The frontend should now be running on http://localhost:3000, and the backend on http://localhost:5000.
 
-Usage
-Open http://localhost:3000 in your browser to access the ENTNT APP.
-Log in or create an account to view the User or Admin dashboard.
-Explore the various features, including managing companies, communication methods, and accessing the reporting and analytics section.
+### Usage
+- Open http://localhost:3000 in your browser to access the ENTNT APP.
+- Log in or create an account to view the User or Admin dashboard.
+- Explore the various features, including managing companies, communication methods, and accessing the reporting and analytics section.
 Folder Structure
-php
-Copy code
+PHP
+```bash
 ENTNT-App/
 │
 ├── frontend/               # React frontend code
@@ -100,26 +99,27 @@ ENTNT-App/
     ├── models/             # Database models (MongoDB)
     ├── routes/             # Express routes for API
     └── controllers/        # Controllers for handling API logic
-Contributing
+```
+### Contributing
 We welcome contributions to improve the ENTNT APP! If you want to contribute, follow these steps:
 
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature-branch).
-Create a new Pull Request.
-License
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature-branch).
+3. Commit your changes (git commit -am 'Add new feature').
+4. Push to the branch (git push origin feature-branch).
+5. Create a new Pull Request.
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgements
-React.js - A JavaScript library for building user interfaces.
-Node.js and Express.js are used to build the backend API.
-MongoDB - A NoSQL database for storing data.
-Chart.js - Used for creating visual reports and analytics charts.
-Netlify & Heroku - Used for deployment.
-Contact
+### Acknowledgements
+- React.js - A JavaScript library for building user interfaces.
+- Node.js and Express.js are used to build the backend API.
+- MongoDB - A NoSQL database for storing data.
+- Chart.js - Used for creating visual reports and analytics charts.
+- Netlify & Heroku - Used for deployment.
+### Contact
 For any questions or inquiries, feel free to reach out to the project maintainer at:
 
-Email: your-email@example.com
-GitHub: @your-username
+**Email:** dhairyasheelingale622@gmail.com
 
+**GitHub:** https://github.com/dhairyasheel2105
