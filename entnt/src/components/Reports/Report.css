@@ -1,0 +1,75 @@
+/* Report.css */
+.report-container, .dashboard-container, .trend-container, .download-container, .log-container {
+    font-family: 'Arial', sans-serif;
+    padding: 20px;
+    margin: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    color: #333;
+    font-size: 2rem;
+  }
+  
+  .filters input, .filter-input, .download-btn {
+    padding: 8px 12px;
+    font-size: 1rem;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+  }
+  
+  .download-btn {
+    background-color: #28a745;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .download-btn:hover {
+    background-color: #218838;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  th, td {
+    padding: 12px;
+    border: 1px solid #ddd;
+    text-align: center;
+  }
+  
+  th {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .activity-log-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .activity-log-table th, .activity-log-table td {
+    padding: 12px;
+    border: 1px solid #ddd;
+    text-align: center;
+  }
+  
+  .activity-log-table th {
+    background-color: #f44336;
+    color: white;
+  }
+  
+  .activity-log-table tr:hover {
+    background-color: #f1f1f1;
+  }
+  
