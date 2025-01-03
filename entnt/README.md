@@ -123,3 +123,7 @@ For any questions or inquiries, feel free to reach out to the project maintainer
 **Email:** dhairyasheelingale622@gmail.com
 
 **GitHub:** https://github.com/dhairyasheel2105
+
+## Screenshots
+**1.**  
+![App Screenshot](screenshots/appscrip2.jpeg)
